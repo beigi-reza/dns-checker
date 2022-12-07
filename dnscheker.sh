@@ -33,7 +33,7 @@ RC="$(tput sgr 0)" # Reset Color
 
 RC="$(tput sgr 0)" # Reset Color
 ##
-DNSFileList=/home/beigi/Documents/myFiles/shell-scripts/dnsckeker/dnslist.txt
+DNSFileList=<DNSFileList>/dnslist.txt
 DNSLocation=1
 DNSIP=1
 DNSCompany=1
