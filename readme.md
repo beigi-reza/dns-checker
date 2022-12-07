@@ -2,6 +2,9 @@
 
 for Perform a quick DNS propagation lookup for any hostname, and check DNS data collected from all available DNS Servers to confirm that the DNS records are fully propagated
 
+## Edit `DNSFileList` variable
+
+replace `<DNSFileList>` with Realpath of **dnslist.txt**
 
 ## Run 
 
